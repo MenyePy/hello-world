@@ -1,2 +1,4 @@
 # hello-world
-Just another repo! (following a tutorial)
+Branches are really cool!
+Will this really work?
+I have to find out!
